@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcF8009F8E3446296d02B63d43E8066D130ce27B3",
+  "SCAN_LINK": "https://etherscan.io/address/0xcF8009F8E3446296d02B63d43E8066D130ce27B3",
+  "NETWORK": {
+    "NAME": "mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "THE HEIST",
+  "SYMBOL": "agent",
+  "MAX_SUPPLY": "10,000",
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-heist-collection",
+  "SHOW_BACKGROUND": true
+}
