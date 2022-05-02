@@ -57,6 +57,18 @@ import config from "~/static/config.json";
 import Web3EthContract from "web3-eth-contract";
 import Web3 from "web3";
 export default {
+  head() {
+    return {
+      title: "The Heist 3D NFT Gallery",
+      meta: [
+        {
+          hid: "The Heist 3D NFT Gallery",
+          name: "The Heist 3D NFT Gallery",
+          content: "The heist 3D NFT Gallery exclusive to holders.",
+        },
+      ],
+    };
+  },
   data() {
     return {
       ethereum: null,
