@@ -17,7 +17,7 @@
             The Gallery
           </h2>
           <p style="font-family: 'Champange'; font-size: 22px" class="pb-3">
-            To view this content you must connect your wallet to verify as
+            To view this content you must connect your wallet and verify as
             holder.
           </p>
           <b-btn

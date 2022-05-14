@@ -4,7 +4,7 @@
     scrolling="no"
     allowfullscreen
     allow="gyroscope; accelerometer; xr-spatial-tracking; vr;"
-    src="https://626ea75a1e7a676297e052fa--eloquent-figolla-eb0037.netlify.app/"
+    src="https://theheist.shapespark.com/heist_temple/#meeting-key=K4MclcPGIhnal9mk&autoplay"
   >
   </iframe>
 </template>
