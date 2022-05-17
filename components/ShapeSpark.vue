@@ -4,7 +4,7 @@
     scrolling="no"
     allowfullscreen
     allow="gyroscope; accelerometer; xr-spatial-tracking; vr; camera; microphone"
-    src="https://theheist.shapespark.com/heist_temple/#meeting-key=K4MclcPGIhnal9mk&autoplay"
+    src="https://theheist.shapespark.com/heist_temple/#autoplay"
   >
   </iframe>
 </template>
