@@ -14,7 +14,7 @@
       <b-container>
         <div class="text-center">
           <h2 class="py-3" style="font-family: 'Market'; font-size: 42px">
-            The Gallery
+            The Temple
           </h2>
           <p style="font-family: 'Champange'; font-size: 22px" class="pb-3">
             To view this content you must connect your wallet and verify as
