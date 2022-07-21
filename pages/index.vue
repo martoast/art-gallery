@@ -17,10 +17,30 @@
             The Temple
           </h2>
           <p style="font-family: 'Champange'; font-size: 22px" class="pb-3">
-            To view this content you must connect your wallet and verify as
-            holder.
+            A Grumpy Heist Production Presents Our First Charity Auction!
           </p>
+
+          <p style="font-family: 'Champange'; font-size: 22px" class="pb-3">
+            THE HEIST Charity Auction Pieces will start at .05 ETH and there
+            will be a total of 5 pieces.
+          </p>
+          <p style="font-family: 'Champange'; font-size: 22px" class="pb-3">
+            MGMS Charity Auction Pieces will start at .05 ETH and there will be
+            a total of 2 pieces.
+          </p>
+          <p style="font-family: 'Champange'; font-size: 22px" class="pb-3">
+            Grumpy Cantina Charity Pieces will be .04 ETH and there will be a
+            total of 1,973 pieces.
+          </p>
+
           <b-btn
+            @click="onEnterGallery"
+            style="font-family: 'Market'; background-color: black"
+          >
+            Enter The Gallery
+          </b-btn>
+
+          <!-- <b-btn
             v-if="!initialState.account"
             @click="connectWallet"
             style="font-family: 'Market'; background-color: black"
@@ -44,7 +64,7 @@
 
           <div v-else>
             <b-spinner label="Spinning"></b-spinner>
-          </div>
+          </div> -->
         </div>
       </b-container>
     </b-modal>
